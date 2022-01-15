@@ -11,7 +11,7 @@ We have used the below R packages in this repository where the source code is at
     iv)  osmdata.ZIP
     v)   osmplotr.ZIP
     
-openasge package - A Brief Introduction
+opencage package - A Brief Introduction
 ========================================
 
 Geocode with the OpenCage API, either from place name to longitude and latitude (forward geocoding) or from longitude and latitude to the name and address of the location (reverse geocoding).
